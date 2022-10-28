@@ -134,11 +134,11 @@ await vendor.transferOwnership("**YOUR FRONTEND ADDRESS**");
 
 #### 🥅 Goals
 
-- [ ] Can **only** the `owner` withdraw the ETH from the `Vendor`?
+- [x] Can **only** the `owner` withdraw the ETH from the `Vendor`?
 
 #### ⚔️ Side Quests
 
-- [ ] Can _anyone_ withdraw? Test _everything_!
+- [x] Can _anyone_ withdraw? Test _everything_!
 - [ ] What if you minted **2000** and only sent **1000** to the `Vendor`?
 
 ---
