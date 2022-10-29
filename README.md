@@ -165,8 +165,8 @@ await vendor.transferOwnership("**YOUR FRONTEND ADDRESS**");
 
 #### 🥅 Goal
 
-- [ ] Can you sell tokens back to the vendor?
-- [ ] Do you receive the right amount of ETH for the tokens?
+- [x] Can you sell tokens back to the vendor?
+- [x] Do you receive the right amount of ETH for the tokens?
 
 #### ⚔️ Side Quest
 
