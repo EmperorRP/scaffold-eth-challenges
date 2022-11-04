@@ -59,8 +59,8 @@ yarn deploy  (to compile, deploy, and publish your contracts to the frontend)
 
 #### 🥅 Goals
 
-- [ ] Track the solidity code to find out how the DiceGame contract is generating random numbers.
-- [ ] Is it possible to predict the random number for any given roll?
+- [x] Track the solidity code to find out how the DiceGame contract is generating random numbers.
+- [x] Is it possible to predict the random number for any given roll?
 
 ---
 
